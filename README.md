@@ -18,7 +18,6 @@ Chrome浏览器 抢购、秒杀插件（秒杀助手） 可自定义 秒杀辅�
 
 
 ### 安装方式
-> 上一种安装已失效，（原因：Chrome版本升级至63导致的），可通过另一种方式安装
 * 下载源码包：https://github.com/caoshining/seckill/archive/master.zip
 *  解压：seckill-master.zip
 *  打开chrome浏览器，设置 --> 更多工具 --> 扩展程序
